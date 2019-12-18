@@ -65,3 +65,5 @@ else:
 # TODO: add a while loop to the Dialog
     # TODO: add a tray icon
         # TODO: define default,max, min window size
+          # exe is here : https://drive.google.com/drive/u/0/folders/186ty_dCdMXVumnuLPs_7OlUGN5ajtsGa
+      
