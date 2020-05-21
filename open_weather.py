@@ -1,8 +1,6 @@
 import requests
 from tkinter.simpledialog import *
-# import json
-# from tkinter import *
-# import urllib.request
+
 
 api_key = "337aac7fc8858ecb0ce4d3c167bcbb6d"
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
